@@ -1,0 +1,126 @@
+1. Instalar .net core
+2. Crear proyecto
+3. Crear Proyecto
+4. Rutas por metodo
+	HttpGet
+	Route("listar")
+5. Headers: Request.Headers
+
+
+INTALAR
+
+Microsoft.EntityFrameworkCore		5.0.0
+Microsoft.EntityFrameworkCore.SqlServer	5.0.0
+Microsoft.EntityFrameworkCore.Tools (para la creación de migraciones)
+
+
+
+
+
+### cada una de las capas de tu arquitectura en una aplicación ASP.NET con SQL Server
+
+### conexion a base de datos utilizando ASP.NET Core
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
